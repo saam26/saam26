@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming languages
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ai and ml
-- 📫 How to reach me instagram @saamyukkth2
+
 
 <!---
 saam26/saam26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
