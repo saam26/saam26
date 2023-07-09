@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @saam26
-- 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @saamyukkth
+
 
 
 <!---
